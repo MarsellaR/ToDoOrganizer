@@ -1,0 +1,11 @@
+body {
+    margin: 10px;
+}
+
+.hide {
+    display: none;
+}
+
+#addBtn {
+    margin-bottom: 10px;
+}
